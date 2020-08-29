@@ -24,5 +24,6 @@ function guess_filenum {
                 fi
         fi
 }
+
 echo "This is the guessing game! Guess how many files are in the current directory!"
 guess_filenum
